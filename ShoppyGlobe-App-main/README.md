@@ -9,7 +9,8 @@ Users can browse products, view details, manage their cart, and place orders thr
 🔗 https://shoppyglobe-app.netlify.app/
 
 ## 📂 GitHub Repository  
-🔗 https://github.com/vinay33333/Vinay-ShoopyGlobe-App/tree/main/ShoppyGlobe-App-main
+🔗 🔗 https://github.com/vinay33333/Vinay-ShoopyGlobe-App/tree/main/ShoppyGlobe-App-main
+
 
 ---
 
